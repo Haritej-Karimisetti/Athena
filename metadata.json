@@ -1,9 +1,0 @@
-{
-  "requestFramePermissions": [
-    "camera",
-    "microphone",
-    "geolocation"
-  ],
-  "name": "Athena - University of Leeds",
-  "description": ""
-}
